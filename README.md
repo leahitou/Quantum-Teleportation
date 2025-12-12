@@ -16,14 +16,7 @@ Quantum teleportation allows the transfer of an unknown quantum state from one q
 
 ## 🔬 What is Quantum Teleportation?
 
-Quantum teleportation is a process where:
-1. Two qubits are entangled.
-2. One qubit stays with *Alice* and the other with *Bob*.
-3. Alice performs a Bell measurement on her qubits.
-4. She sends Bob two classical bits.
-5. Bob applies quantum gates depending on the classical bits.  
-   
-After this process, Bob's qubit becomes an exact copy of the original state Alice wanted to send — **even though the two never physically exchanged qubits**.
+Quantum Teleportation means transferring a quantum state (information) from one particle to another distant one, not the particle itself, using entanglement and classical communication.
 
 This protocol is essential in:
 - Quantum communication  
