@@ -40,7 +40,3 @@ You can open the Colab notebook here:
 **[Quantum Teleportation Notebook (Google Colab)](https://colab.research.google.com/drive/1sodwpJFM0nZEimLRv7xOvM-raHEsoWUl?usp=sharing)**
 
 Or explore the notebook in this repository.
-
-
-```bash
-pip install qiskit
